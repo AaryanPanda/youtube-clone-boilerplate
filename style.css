@@ -1,0 +1,234 @@
+body{
+    background-color: rgb(188, 184, 184);
+}
+img {
+    padding: 30px;
+}
+#hambarger{
+   height: fit-content;
+   display: inline; 
+   padding-top: 10px;
+}
+#ytlogo{
+    height: fit-content;
+    display: inline;
+}
+#homelogo {
+    display: inline; 
+    position: relative;
+    right: 20px;
+}
+#home{
+    display: inline;
+    font-size: 90px;
+    position: relative;
+    bottom: 40px;
+    left: 20px;
+}
+#explorelogo {
+    display: inline; 
+    position: relative;
+    right: 20px;
+    bottom: 10px;
+}
+#explore{
+    display: inline;
+    font-size: 90px;
+    position: relative;
+    bottom: 70px;
+    left: 20px;
+}
+#shortlogo {
+    display: inline; 
+    position: relative;
+    right: 20px;
+    bottom: 50px;
+}
+#short {
+    display: inline;
+    font-size: 90px;
+    position: relative;
+    bottom: 100px;
+    left: 20px;
+}
+#subscriptionlogo {
+    display: inline; 
+    position: relative;
+    right: 20px;
+    bottom: 100px;
+}
+#subscription {
+    display: inline;
+    font-size: 90px;
+    position: relative;
+    bottom: 140px;
+    left: 20px;
+}
+hr{
+    position: relative;
+    bottom: 130px;
+    
+}
+#librarylogo {
+    display: inline; 
+    position: relative;
+    right: 20px;
+    bottom: 160px;
+}
+#library {
+    display: inline;
+    font-size: 90px;
+    position: relative;
+    bottom: 200px;
+    left: 20px;
+}
+#historylogo {
+    display: inline; 
+    position: relative;
+    right: 20px;
+    bottom: 160px;
+}
+#history {
+    display: inline;
+    font-size: 90px;
+    position: relative;
+    bottom: 200px;
+    left: 20px;
+}
+#yourvidlogo {
+    display: inline; 
+    position: relative;
+    right: 20px;
+    bottom: 160px;
+}
+#yourvid {
+    display: inline;
+    font-size: 90px;
+    position: relative;
+    bottom: 200px;
+    left: 20px;
+}
+#watchlatlogo {
+    display: inline; 
+    position: relative;
+    right: 20px;
+    bottom: 160px;
+}
+#watchlat {
+    display: inline;
+    font-size: 90px;
+    position: relative;
+    bottom: 200px;
+    left: 20px;
+}
+#likedvidlogo {
+    display: inline; 
+    position: relative;
+    right: 20px;
+    bottom: 160px;
+}
+#likedvid {
+    display: inline;
+    font-size: 90px;
+    position: relative;
+    bottom: 200px;
+    left: 20px;
+}
+#showmorelogo {
+    display: inline; 
+    position: relative;
+    right: 20px;
+    bottom: 160px;
+}
+#showmore {
+    display: inline;
+    font-size: 90px;
+    position: relative;
+    bottom: 200px;
+    left: 20px;
+}
+#subscriptionhead{
+    font-size: 110px;
+    position: relative;
+    bottom: 200px;
+    left: 20px;
+    color: rgb(61, 58, 58);    
+}
+#icon1 {
+    display: inline; 
+    position: relative;
+    right: 20px;
+    bottom: 220px;
+}
+#channel1 {
+    display: inline;
+    font-size: 90px;
+    position: relative;
+    bottom: 260px;
+    left: 20px;
+}
+#icon2 {
+    display: inline; 
+    position: relative;
+    right: 20px;
+    bottom: 220px;
+}
+#channel2 {
+    display: inline;
+    font-size: 90px;
+    position: relative;
+    bottom: 260px;
+    left: 20px;
+}
+#icon3 {
+    display: inline; 
+    position: relative;
+    right: 20px;
+    bottom: 220px;
+}
+#channel3 {
+    display: inline;
+    font-size: 90px;
+    position: relative;
+    bottom: 260px;
+    left: 20px;
+}
+#icon4 {
+    display: inline; 
+    position: relative;
+    right: 20px;
+    bottom: 220px;
+}
+#channel4 {
+    display: inline;
+    font-size: 90px;
+    position: relative;
+    bottom: 260px;
+    left: 20px;
+}
+#icon5 {
+    display: inline; 
+    position: relative;
+    right: 20px;
+    bottom: 220px;
+}
+#channel5 {
+    display: inline;
+    font-size: 90px;
+    position: relative;
+    bottom: 260px;
+    left: 20px;
+}
+#icon6 {
+    display: inline; 
+    position: relative;
+    right: 20px;
+    bottom: 220px;
+}
+#channel6 {
+    display: inline;
+    font-size: 90px;
+    position: relative;
+    bottom: 260px;
+    left: 20px;
+}
